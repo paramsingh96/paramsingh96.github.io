@@ -13,7 +13,6 @@ I am **Param**. I am a Software Engineer from a small city, Alwar. I like to obs
 
 - 📫 How to reach me ? Shoot me a mail heyparamsingh@gmail.com or connect with me on [Instagram] / [Twitter]
 
-[![Param's Github Stats](https://github-readme-stats.vercel.app/api?username=paramsingh96&show_icons=true&count_private=true)]()
 
 [Gojek]: https://www.gojek.io/
 [Duolingo]: https://duolingo.com/profile/paramsingh96

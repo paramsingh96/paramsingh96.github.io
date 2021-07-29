@@ -11,11 +11,12 @@ I am **Param**. I am a Software Engineer from a small city, Alwar. I like to obs
 
 - 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling. And, I might have a Financial tip for you. 📈
 
-- 📫 How to reach me ? Shoot me a mail heyparamsingh@gmail.com or connect with me on [Instagram] / [Twitter]
+- 📫 How to reach me ? Shoot me a mail heyparamsingh@gmail.com or connect with me on [Instagram] / [Twitter] / [LinkedIn]
 
 
 [Gojek]: https://www.gojek.io/
 [Duolingo]: https://duolingo.com/profile/paramsingh96
 [Instagram]: https://www.instagram.com/paramsingh96
 [Twitter]: https://www.twitter.com/paramsingh96
+[LinkedIn]: https://www.linkedin.com/in/parampreet-singh-b13313a6/
 

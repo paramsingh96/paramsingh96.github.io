@@ -4,9 +4,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/parampreet-singh-b13313a6/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/paramsingh96)
-[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://medium.com/paramsingh96)
-[![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://github.com/paramsingh96)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=8A3AB9)](https://instagram.com/paramsingh96)
+[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0000CD)](https://medium.com/paramsingh96)
+[![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=FAFAFA)](https://github.com/paramsingh96)
 
 ### Heyo there! 👋
 

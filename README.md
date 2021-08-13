@@ -20,7 +20,7 @@ I am **Param**. I am a Software Engineer from a small city, Alwar. I like to obs
 - 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling. And, I might have a Financial tip for you. 📈
 
 - 📫 How to reach me ? 
-     Shoot me a mail heyparamsingh@gmail.com
+     Shoot me a mail [heyparamsingh@gmail.com]
 
 
 [Gojek]: https://www.gojek.io/

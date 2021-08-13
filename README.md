@@ -30,4 +30,5 @@ I am **Param**. I am a Software Engineer from a small city, Alwar. I like to obs
 [LinkedIn]: https://www.linkedin.com/in/parampreet-singh-b13313a6/
 [Github]: https://github.com/paramsingh96
 [Medium]: https://medium.com/@paramsingh96
+[heyparamsingh@gmail.com]: heyparamsingh@gmail.com
 

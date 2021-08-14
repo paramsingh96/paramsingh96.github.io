@@ -25,10 +25,5 @@ I am **Param**. I am a Software Engineer from a small city, Alwar. I like to obs
 
 [Gojek]: https://www.gojek.io/
 [Duolingo]: https://duolingo.com/profile/paramsingh96
-[Instagram]: https://www.instagram.com/paramsingh96
-[Twitter]: https://www.twitter.com/paramsingh96
-[LinkedIn]: https://www.linkedin.com/in/parampreet-singh-b13313a6/
-[Github]: https://github.com/paramsingh96
-[Medium]: https://medium.com/@paramsingh96
 [heyparamsingh@gmail.com]: mailto:heyparamsingh@gmail.com
 

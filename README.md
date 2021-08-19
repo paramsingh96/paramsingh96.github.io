@@ -8,8 +8,6 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=00ab6c)](https://medium.com/@paramsingh96)
 [![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=FAFAFA)](https://github.com/paramsingh96)
 [![Strava Badge](https://img.shields.io/badge/Strava-Profile-informational?style=flat&logo=strava&logoColor=white&color=EA5E30)](https://www.strava.com/athletes/90606598)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=D44638)](mailto:heyparamsingh@gmail.com)
-
 
 ### Heyo there! 👋
 

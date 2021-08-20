@@ -18,7 +18,7 @@ I am **Param**. I am a Polyglot Software Engineer from a small city, Alwar. I li
 - 🌱 I’m currently learning new languages like German, Spanish & French, checkout my progress here at [Duolingo]!
 - 👯 I’m looking to collaborate on exciting, useful & meaningful work. Preferably in `Ruby`, `Golang`, `Clojure`, `Rust`, `React`, `Postgres`, `Redis`, `Dev/CLI tools` & related stuff. 😁
 
-- 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling. And, I might have a Financial tip for you. 📈
+- 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling.
 
 - 📫 How to reach me ? 
      Shoot me a mail [heyparamsingh@gmail.com]

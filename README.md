@@ -1,6 +1,4 @@
 
-![Param](https://avatars.githubusercontent.com/paramsingh96?raw=true)
-
 # Parampreet Singh Gogia
 [![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)

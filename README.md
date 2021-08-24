@@ -1,10 +1,12 @@
 
 <br />
-<p align="center"><h3 align="center">![Param](https://avatars.githubusercontent.com/paramsingh96.jpeg?raw=true)</h3>
+<p align="center"><h3 align="center">![Param](https://avatars.githubusercontent.com/paramsingh96?raw=true)</h3>
   <p align="center">
   <b> Parampreet Singh Gogia </b>
   </p>
 </p>
+
+![alt text](https://avatars.githubusercontent.com/paramsingh96?raw=true)
 
 [![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)

@@ -1,14 +1,11 @@
 
 <br />
-<p align="center"><h3 align="center">Param</h3>
+<p align="center"><h3 align="center">![alt text](http://url/to/img.png)</h3>
   <p align="center">
     Parampreet Singh Gogia
   </p>
 </p>
 
-
-
-# Parampreet Singh Gogia
 [![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/parampreet-singh-b13313a6/)

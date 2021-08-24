@@ -2,7 +2,7 @@
 <br />
 <p align="center"><h3 align="center">![alt text](http://url/to/img.png)</h3>
   <p align="center">
-    Parampreet Singh Gogia
+  <b> Parampreet Singh Gogia </b>
   </p>
 </p>
 

@@ -1,6 +1,6 @@
 
 <br />
-<p align="center"><h3 align="center">![alt text](http://url/to/img.png)</h3>
+<p align="center"><h3 align="center">![Param](https://avatars.githubusercontent.com/paramsingh96)</h3>
   <p align="center">
   <b> Parampreet Singh Gogia </b>
   </p>

@@ -1,4 +1,12 @@
 
+<br />
+<p align="center"><h3 align="center">Param</h3>
+  <p align="center">
+    Parampreet Singh Gogia
+  </p>
+</p>
+
+
 
 # Parampreet Singh Gogia
 [![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)

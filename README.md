@@ -1,5 +1,5 @@
+<center>
 <a href="url"><img src="https://avatars.githubusercontent.com/paramsingh96" height="auto" width="200" style="border-radius:50%"></a>
-
 
 # Parampreet Singh Gogia
 [![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
@@ -28,4 +28,5 @@ I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like to
 [Gojek]: https://www.gojek.io/
 [Duolingo]: https://duolingo.com/profile/paramsingh96
 [heyparamsingh@gmail.com]: mailto:heyparamsingh@gmail.com
+</center>
 

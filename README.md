@@ -27,7 +27,7 @@
       I am <b>Param</b>, a Polyglot Software Engineer from a small city, Alwar. I like to observe and talk to people.
     </p>
     <p style="font-family:Futura,monospace">
-      🔭 I’m currently working with <a href="https://www.gojek.io/">Gojek</a> on solving Marketplace Supply Product & Engineering Problems.</li>
+      🔭 I’m currently working with <a href="https://www.gojek.io/">Gojek</a> on solving Marketplace Supply Product & Engineering Problems.
     </p>
     <p style="font-family:Futura,monospace">
       🌱 I’m currently learning new languages like German, Spanish & French, checkout my progress here at <a href="https://duolingo.com/profile/paramsingh96">Duolingo</a>!

@@ -1,6 +1,8 @@
+<p align="center">
 <a href="url"><img src="https://avatars.githubusercontent.com/paramsingh96" height="auto" width="200" style="border-radius:50%"></a>
 
-# Parampreet Singh Gogia
+<h1 align="center">Parampreet Singh Gogia</h1>
+
 [![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/parampreet-singh-b13313a6/)
@@ -9,9 +11,11 @@
 [![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=333)](https://github.com/paramsingh96)
 [![Strava Badge](https://img.shields.io/badge/Strava-Profile-informational?style=flat&logo=strava&logoColor=white&color=EA5E30)](https://www.strava.com/athletes/90606598)
 
-### Heyo there! 👋
+<h3 align="center">Heyo there! 👋</h3>
 
-I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like to observe and talk to people.
+<p align="center">
+	I am <b>Param</b>, a Polyglot Software Engineer from a small city, Alwar. I like to observe and talk to people.
+<p align="center">
 
 
 - 🔭 I’m currently working with [Gojek] on solving Marketplace Supply Product & Engineering Problems.
@@ -27,4 +31,3 @@ I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like to
 [Gojek]: https://www.gojek.io/
 [Duolingo]: https://duolingo.com/profile/paramsingh96
 [heyparamsingh@gmail.com]: mailto:heyparamsingh@gmail.com
-
